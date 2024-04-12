@@ -16,6 +16,6 @@
 
 - 根据本地数据库环境修改数据库连接，src/main/resources/application.properties  13-16行
 
-- 启动项目，http://localhost:8080/seatmis/
+- 启动项目，IP:8080/seatmis/
 
 - 管理员账号/密码： admin/admin  学生账号/密码：15162385972/123456 或者查看huiyuan表
