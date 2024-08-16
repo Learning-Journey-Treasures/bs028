@@ -1,8 +1,8 @@
 **郑重声明：项目经过本地测试，确保可以运行。项目仅供学习和毕业设计参考~**
 
-![输入图片说明](qrcode_for_gh_1266b4b5294a_258.jpg) 扫码发送BS028，获取源码+论文示例~
-
+**扫码 >> 源码商城 获取** ![qrcode_for_gh_1266b4b5294a_258 (2)](https://github.com/user-attachments/assets/45838afd-19a8-4cdc-bdd5-74b9c76fb241)
 #### 1.项目介绍
+
 
 技术栈+环境：SpringBoot + jsp + mysql5.7及以上 + maven3 + idea2022
 
