@@ -19,3 +19,11 @@
 - 启动项目，IP:8080/seatmis/
 
 - 管理员账号/密码： admin/admin  学生账号/密码：15162385972/123456 或者查看huiyuan表
+![1](https://github.com/user-attachments/assets/705c0c29-6b59-4458-95c5-a4ba77879850)
+![2](https://github.com/user-attachments/assets/19b2dd48-2ce9-4d97-b420-331e2415506d)
+![3](https://github.com/user-attachments/assets/d3899db9-6d77-408e-b501-f6d34fe864b6)
+![4](https://github.com/user-attachments/assets/24a45896-9f90-41f9-b540-5565aa145db3)
+![5](https://github.com/user-attachments/assets/012677d7-2859-4793-87c1-c5c7d04f56b5)
+![6](https://github.com/user-attachments/assets/5a50672a-e615-432a-9b5e-026a26e6c15d)
+![7](https://github.com/user-attachments/assets/236b6e15-1073-4c54-ae16-5ab8ff855d5c)
+![9](https://github.com/user-attachments/assets/46d80017-564d-46f2-a7b1-55b54ebf7277)
